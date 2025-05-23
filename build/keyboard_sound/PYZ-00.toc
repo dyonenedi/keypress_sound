@@ -1,4 +1,4 @@
-('C:\\Python\\keypress_sound\\build\\keyboard_sound\\PYZ-00.pyz',
+('c:\\Python\\keypress_sound\\build\\keyboard_sound\\PYZ-00.pyz',
  [('PIL',
    'C:\\Users\\Dyon\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\__init__.py',
    'PYMODULE'),
