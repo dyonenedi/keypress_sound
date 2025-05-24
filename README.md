@@ -98,6 +98,18 @@ Contributions are welcome! Feel free to open Issues or Pull Requests.
 This project is distributed under the MIT License. See the `LICENSE` file for more information.
 (Suggestion: Create a `LICENSE` file in your repository with the text of the MIT license or another of your choice).
 
+## 🗂️ Auto Init on Windows
+1. Pressione `Win + R` para abrir o **Executar**.
+2. Digite:
+    
+    ```
+    shell:startup
+    ```
+    
+3. e pressione **Enter**.
+4. Isso abrirá a **pasta de inicialização** do seu usuário.
+5. Copie o seu arquivo `.exe` (ou um atalho dele) para essa pasta
+
 ---
 
 <p align="center">Made with ❤️ by Dyon Enedi with AI</p>
